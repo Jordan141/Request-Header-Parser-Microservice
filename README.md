@@ -1,14 +1,27 @@
-# Request-Header-Parser-Microservice
+Welcome to the Glitch BETA
+==========================
+
+Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+
+**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+
+Find out more [about Glitch](https://glitch.com/about).
 
 
-- Objective: Build a full stack JavaScript app that is functionally similar to this: https://cryptic-ridge-9197.herokuapp.com/api/whoami/ and deploy it to Glitch.
+Your Project
+------------
 
-- Note that for each project, you should create a new GitHub repository and a new Glitch project. If you can't remember how to do this, revisit https://freecodecamp.org/challenges/get-set-for-our-api-development-projects.
+On the front-end,
+- edit `public/client.js`, `public/style.css` and `views/index.html`
+- drag in `assets`, like images or music, to add them to your project
 
-- Here's the specific user story you should implement for this project:
+On the back-end,
+- your app starts at `server.js`
+- add frameworks and packages in `package.json`
+- safely store app secrets in `.env` (nobody can see this but you and people you invite)
 
-- User Story: I can get the IP address, language and operating system for my browser.
 
-- Once you've finished implementing these user stories, click the "I've completed this challenge" button and enter the URLs for both your GitHub repository and your live app running on Glitch.
+Made by [Fog Creek](https://fogcreek.com/)
+-------------------
 
-- You can get feedback on your project by sharing it with your friends on Facebook.
+\ ゜o゜)ノ
